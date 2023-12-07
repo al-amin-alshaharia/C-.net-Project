@@ -1,0 +1,22 @@
+F:\Level 2 Semester 2\C# project\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\EmployeeManagementSystem.csproj.AssemblyReference.cache
+F:\Level 2 Semester 2\C# project\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\EmployeeManagementSystem.Form1.resources
+F:\Level 2 Semester 2\C# project\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\EmployeeManagementSystem.csproj.GenerateResource.cache
+F:\Level 2 Semester 2\C# project\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\Famracy.exe.config
+F:\Level 2 Semester 2\C# project\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\Famracy.exe
+F:\Level 2 Semester 2\C# project\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\Famracy.pdb
+F:\Level 2 Semester 2\C# project\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\Famracy.Properties.Resources.resources
+F:\Level 2 Semester 2\C# project\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\EmployeeManagementSystem.csproj.CoreCompileInputs.cache
+F:\Level 2 Semester 2\C# project\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\Famracy.exe
+F:\Level 2 Semester 2\C# project\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\Famracy.pdb
+F:\Level 2 Semester 2\C# project\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\Famracy.RegisterForm.resources
+C:\Users\alami\Desktop\C# project\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\Famracy.exe.config
+C:\Users\alami\Desktop\C# project\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\Famracy.exe
+C:\Users\alami\Desktop\C# project\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\Famracy.pdb
+C:\Users\alami\Desktop\C# project\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\EmployeeManagementSystem.csproj.AssemblyReference.cache
+C:\Users\alami\Desktop\C# project\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\EmployeeManagementSystem.Form1.resources
+C:\Users\alami\Desktop\C# project\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\Famracy.Properties.Resources.resources
+C:\Users\alami\Desktop\C# project\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\Famracy.RegisterForm.resources
+C:\Users\alami\Desktop\C# project\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\EmployeeManagementSystem.csproj.GenerateResource.cache
+C:\Users\alami\Desktop\C# project\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\EmployeeManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\alami\Desktop\C# project\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\Famracy.exe
+C:\Users\alami\Desktop\C# project\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\Famracy.pdb
